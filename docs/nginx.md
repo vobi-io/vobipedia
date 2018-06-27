@@ -19,6 +19,13 @@ server {
   }
 }
 ```
+Copy config to /sites-enabled folder
+``` sudo ln -s /etc/nginx/sites-available/example.conf /etc/nginx/sites-enabled/example.conf ```
+
+Restart nginx
+``` sudo service nginx restart ```
+
+
 ### Isntall certbot from https://certbot.eff.org/
 
 ```sudo apt-get install software-properties-common
