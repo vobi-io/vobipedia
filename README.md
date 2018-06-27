@@ -1,4 +1,4 @@
-# vobi-guides
+# Vobipedia
 
 
 * [Simple nginx config for frontend app](https://github.com/vobi-io/vobipedia/blob/master/docs/nginx/simple_nginx_config.md)
